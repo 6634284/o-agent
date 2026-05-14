@@ -1,0 +1,11 @@
+generations/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+node_modules/
+logs/
+web/data/tasks/
+.claude/settings.local.json
